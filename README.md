@@ -1,5 +1,5 @@
 ###  👋 Hi there,I,m Kaveri !
-I,m a B.Tech CSE (Data Sciecne)student
+I'm a B.Tech CSE (Data Sciecne)student
 passionate about building real-world projects,
 learning new tech,and contributing to open-source.
 ---
